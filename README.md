@@ -35,3 +35,4 @@ Jawab : Deklarasi keduanya dapat ditampilkan di web browser
 kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
 ![img]Screenshoot2/SS16.png
+![img]Screenshoot2/SS17.png
