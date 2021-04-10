@@ -36,6 +36,4 @@ kode tag untuk paragraf adalah '<p>'
 ini adalah tampilannya
 ![Gambar 1](Screenshoot2/SS16.png)
 ![Gambar 2](Screenshoot2/SS17.png)
-![Gambar 3](Sreenshoot2/SS18.png)
-![Gambar 4](Screenshoot2/SS19.png)
-![Gambar 5](Screenshoot2/SS20.png)
+
