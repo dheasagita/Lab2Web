@@ -1,3 +1,7 @@
+![SS17](https://user-images.githubusercontent.com/81453793/114272200-60a56000-9a3f-11eb-95fd-2cb46b5c84fe.png)
+![SS18](https://user-images.githubusercontent.com/81453793/114272212-6e5ae580-9a3f-11eb-91f1-28352cb808d9.png)
+![SS18](https://user-images.githubusercontent.com/81453793/114272252-a3ffce80-9a3f-11eb-891a-e85b98be1e25.png)
+![SS18](https://user-images.githubusercontent.com/81453793/114272262-b11cbd80-9a3f-11eb-9469-c280f8734db3.png)
 # Lab2Web
 ## Belajar CSS Dasar
 ### Menjawab Pertanyaan Tugas Praktikum 2
