@@ -1,5 +1,3 @@
-![SS19](https://user-images.githubusercontent.com/81453793/114272754-9a776600-9a41-11eb-9ff7-d291b38db822.png)
-![SS20](https://user-images.githubusercontent.com/81453793/114272762-a2cfa100-9a41-11eb-95c7-def17555f510.png)
 # Lab2Web
 ## Belajar CSS Dasar
 ### Menjawab Pertanyaan Tugas Praktikum 2
@@ -39,3 +37,5 @@ ini adalah tampilannya
 ![Gambar 1](Screenshoot2/SS16.png)
 ![Gambar 2](Screenshoot2/SS17.png)
 ![SS18](https://user-images.githubusercontent.com/81453793/114272262-b11cbd80-9a3f-11eb-9469-c280f8734db3.png)
+![SS19](https://user-images.githubusercontent.com/81453793/114272754-9a776600-9a41-11eb-9ff7-d291b38db822.png)
+![SS20](https://user-images.githubusercontent.com/81453793/114272762-a2cfa100-9a41-11eb-95c7-def17555f510.png)
